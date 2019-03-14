@@ -1,0 +1,11 @@
+{
+   "email": "001@test.test",
+   "firstName": "Test1",
+   "lastName": "Test2",
+   "type": "Administrator",
+   "level": "Full",
+   "password": "Password1",
+   "defaultUser":[
+   "001@test.test","Test1","Test2","Password1","Administrator","Full"
+   ]
+}
