@@ -106,7 +106,7 @@ public class BaseTest extends Config {
 		Desktop.getDesktop().browse(htmlFile.toURI());
 	}
 	
-
+	
 	 public WebDriver getDriver() {
 	    	return driver;
 	    }
